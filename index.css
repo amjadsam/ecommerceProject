@@ -1,0 +1,35 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.nav-hamburger
+{
+    display:none;
+}
+.menu-top
+{
+    display:none;
+}
+.nav-list
+{
+    display:flex;
+    
+}
+.class-toggle
+{
+    
+}
+.nav-logo
+{
+    
+}
+.nav{
+display:flex;align-items:center;justify-content:space-between;
+}
+ul{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
